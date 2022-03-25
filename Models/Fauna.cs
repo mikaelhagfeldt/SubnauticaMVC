@@ -2,6 +2,9 @@
 {
     public class Fauna
     {
+
+        // This comment to be deleted
+
         public int FaunaId { get; set; }
         public string Name { get; set; }
         public string GeneralInformation { get; set; }
